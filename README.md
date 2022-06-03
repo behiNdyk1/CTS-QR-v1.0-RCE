@@ -1,5 +1,6 @@
 # CTS-QR-v1.0-RCE
 Unauthenticated RCE on CTS-QR v1.0
+Tested on: Lockdown CTF from TryHackMe
 
 ### Usage
 The usage is very simple, you just need to pass the base url for the target system, and it'll do the rest. Some paths may alter depending on how the installation process of CTS-QR ocurred in the target.
