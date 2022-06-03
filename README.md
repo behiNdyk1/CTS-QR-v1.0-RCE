@@ -1,4 +1,4 @@
-# CTS-QR-v1.0-RCE
+# CTS-QR v1.0 RCE
 Unauthenticated RCE on CTS-QR v1.0 // Tested on: Lockdown CTF from TryHackMe
 
 ### Usage
